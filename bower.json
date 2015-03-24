@@ -1,0 +1,22 @@
+{
+  "name": "snake-game",
+  "version": "0.0.0",
+  "authors": [
+    "Yashprit Singh <yashprits@gmail.com>"
+  ],
+  "description": "small snake game using canvas and javascript",
+  "main": "game.js",
+  "keywords": [
+    "game",
+    "canvas",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
